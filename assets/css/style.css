@@ -171,6 +171,10 @@ header {
     font-weight: 300;
     letter-spacing: 2px;
 }
+/*------------------------------------------Google map rendering */
+div#map {
+    min-height: 360px;
+}
 
 /*------------------------------------Hover.css */
 
